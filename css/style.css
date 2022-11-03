@@ -1,0 +1,83 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+    outline: none;border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.btn{
+    padding: 7px 15px;
+    color: #fff;
+    background: #5048E5;
+    border-radius: 5px;
+}
+
+.sub{
+    text-align: right;
+}
+
+.p-style{
+    color: #666;
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+.inputbox{
+    margin: 16px 10px;
+}
+
+.line{
+    border-top: 1px solid rgba(0,0,0,.1);
+    margin: 23px 0;
+}
+
+.flex-div{
+    display: flex;
+    gap: 45px;
+}
+
+.container{
+    background: #f9fafb;
+    padding: 50px 30px;
+}
+
+.setting .Notifications{
+    background: #fff;
+    padding: 18px;
+    margin-bottom: 30px;
+}
+
+.setting .Notifications > h4{
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+
+.setting .Notifications form h4{
+    margin-bottom: 13px;
+}
+
+.setting .Notifications form label{
+    color: #333;
+}
+
+
+/* ==== password area ==== */
+
+.setting .Password{
+    background: #fff;
+    padding: 18px;
+}
+
+.setting .Password form input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 7px;
+}
+
+
+
+/* ==== password area ==== */
